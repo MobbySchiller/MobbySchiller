@@ -14,6 +14,6 @@ I really enjoy traveling and learning about new things. I love playing board gam
 
 ## 🌐 Links
 
-[![Website](https://img.shields.io/badge/-Website-orange?style=flat-square&logoColor=white&link=https://kburzynski.com/)](https://kburzynski.com/)
+[![Website](https://img.shields.io/badge/-Website-gray?style=flat-square&logoColor=white&link=https://kburzynski.com/)](https://kburzynski.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krzysztof-burzy%C5%84ski-86bb79190/)](https://www.linkedin.com/in/krzysztof-burzy%C5%84ski-86bb79190/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krzy.burzynski@gmail.com)](mailto:krzy.burzynski@gmail.com)
