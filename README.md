@@ -6,7 +6,7 @@ I really enjoy traveling and learning about new things. I love playing board gam
 
 ## 🔧 Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,sass,materialui,tailwind,bootstrap,git)
+![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,html,css,sass,tailwind,styledcomponents,bootstrap,materialui,git)
 
 ## 📖 What I'm learning now
 
