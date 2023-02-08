@@ -10,7 +10,7 @@ I really enjoy traveling and learning about new things. I love playing board gam
 
 ## 📖 What I'm learning now
 
-![Learning now](https://skillicons.dev/icons?i=jest)
+![Learning now](https://skillicons.dev/icons?i=jest,firebase)
 
 ## 🌐 Links
 
